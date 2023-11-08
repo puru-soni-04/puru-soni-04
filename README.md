@@ -1,16 +1,22 @@
-### Hi there 👋
+# Hi, I'm Puru Soni! 👨‍💻
 
-<!--
-**puru-soni-04/puru-soni-04** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Welcome to my GitHub! I'm an Honors Computer Engineering student at the University at Buffalo, passionate about blending software development and research to tackle real-world challenges.
 
-Here are some ideas to get you started:
+## Currently Working On
+- **MindVoice Project**: Enhancing speech recognition for those with speech disorders using audio and EEG data.
+- **AutoTA Chatbot**: A GPT-4 based chatbot that aids students while adhering to academic integrity and promoting independent problem solving.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Looking to Collaborate?
+I'm always open to innovative projects and research opportunities. Let's connect!
+
+📧 Reach out to me at [purusoni@buffalo.edu](mailto:purusoni@buffalo.edu)
+or Connect with me on [LinkedIn (in/purusoni)](https://www.linkedin.com/in/purusoni/)
+
+## Skills Snapshot
+- **Languages/Frameworks**: Python, C, Java, JavaScript, Django, React Native
+- **Machine Learning**: PyTorch, TensorFlow, NLP, Image Processing
+- **Embedded Systems**: Arduino, Raspberry Pi, Pixhawk
+
+---
+
+🚀 Excited to explore new ideas and collaborations!
