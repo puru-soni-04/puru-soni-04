@@ -1,5 +1,4 @@
 ## Hi, I'm Puru Soni! 👋
-
 Welcome to my GitHub! I'm an Honors Computer Engineering student at the University at Buffalo, passionate about blending software development and research to tackle real-world challenges.
 
 ### Currently Working On
@@ -8,6 +7,5 @@ Welcome to my GitHub! I'm an Honors Computer Engineering student at the Universi
 
 ### Looking to Collaborate?
 I'm always open to innovative projects and research opportunities. Let's connect! 🚀
-
 📧 Reach out to me at [purusoni@buffalo.edu](mailto:purusoni@buffalo.edu)
 or connect with me on [LinkedIn (in/purusoni)](https://www.linkedin.com/in/purusoni/)
